@@ -1,6 +1,6 @@
 Wildflare - Developed for Global Editors Network: Editors Lab Lisbon
 
-2nd Place
+It was the effort of 8 hours of work and was awarded 2nd place in the Hackathon.
 
 
 
